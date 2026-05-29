@@ -14,6 +14,7 @@ div#encabezado {
 
 div#columna_principal{
  float: left;
+ width:100%;
  background-color: #DEB887; 
 }
 
